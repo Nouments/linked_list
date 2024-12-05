@@ -26,7 +26,7 @@ Install Linked_list with pip
 
 ```python
 
-from linked_list import Linked_list
+from PyLinkedList2905 import Linked_list
 
 # Create a new linked list
 ll = Linked_list()
