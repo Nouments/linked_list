@@ -18,7 +18,7 @@ A simple implementation of a singly linked list in Python.
 Install Linked_list with pip
 
 ```bash
-   pip install Linked_list
+    pip install PyLinkedList2905
 ```
 ## Usage 
 
